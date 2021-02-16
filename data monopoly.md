@@ -1,0 +1,3 @@
+- Countries want to control the flow information because it lets them enforce their rule in a much toatltarian manner without majaority of their citizens noticing it. 
+- The Australian government has been contently passing laws that are striping the Australian citizen of their very individuals’ right to privacy, anonymity, and protection from having their personal information collected.
+- The Australian goverment  [claims](http://www.abc.net.au/news/2014-08-06/security-laws-abbott-browsing-history-not-collected/5652364) that the data retention law does not seriously compromise our privacy should be considered as naïve, ill-informed, or dishonest.
